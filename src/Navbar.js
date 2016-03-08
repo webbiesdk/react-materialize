@@ -2,6 +2,7 @@ import React from 'react';
 import cx from 'classnames';
 import Col from './Col';
 import Icon from './Icon';
+import $ from 'jquery';
 
 class Navbar extends React.Component {
   constructor(props) {

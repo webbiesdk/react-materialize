@@ -2,6 +2,7 @@ import React from 'react';
 import cx from 'classnames';
 import idgen from './idgen';
 import constants from './constants';
+import $ from 'jquery'
 
 class Input extends React.Component {
   constructor(props) {

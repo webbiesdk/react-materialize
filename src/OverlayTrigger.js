@@ -1,6 +1,7 @@
 import React from 'react';
 import Overlay from './Overlay';
 import idgen from './idgen';
+import $ from 'jquery';
 
 class OverlayTrigger extends Overlay {
   constructor(props) {
